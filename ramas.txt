@@ -1,6 +1,6 @@
 0- primer push
 1- primer push desde otra rama
-2- 
-3- 
+2- primer push desde otra rama mas
+3- union entre ramas
 4- fusion total
-5- 
+5- todo en rama main
