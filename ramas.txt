@@ -1,3 +1,5 @@
 0- primer push
 1- primer push desde otra rama
 2- primer push desde otra rama mas
+
+4- fusion total
