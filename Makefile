@@ -3,3 +3,4 @@ push:
 	git commit -m "$@"
 	git branch -M main
 	git push
+
