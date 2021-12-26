@@ -1,5 +1,5 @@
 push:
 	git add -A 
-	git commit -m "sidiion"
+	git commit -m "$@"
 	git branch -M main
 	git push
