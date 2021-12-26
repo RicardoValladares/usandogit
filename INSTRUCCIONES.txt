@@ -14,4 +14,3 @@ git commit -m "primer"
 git push -u origin main
 git push --set-upstream origin main
 
-OK
