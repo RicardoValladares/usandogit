@@ -1,8 +1,8 @@
 ahora = $(shell date --iso=seconds)
 
-push estable:
+push:
 	git add -A 
 	git commit -m "$(ahora)"
-	git branch -M estable
-	git push
+	git branch -M desarrollo
+	git push -u origin desarrollo
 
