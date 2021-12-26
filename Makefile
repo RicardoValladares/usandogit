@@ -1,7 +1,9 @@
 ahora = $(shell date --iso=seconds)
 
 push:
-	git add -A 
+	git status
+	git add .
 	git commit -m "$(ahora)"
-	git push origin desarrollo
+	git pull origin desarrollo 
+	git push origin estable:desarrollo
 
