@@ -3,11 +3,16 @@ git config --global user.email "R_A_V_R_@HOTMAIL.COM"
 
 git clone https://github.com/RicardoValladares/usandogit.git
 cd usandogit
+
 git init
 git status
+
+git branch -M main
 git add -A
 git commit -m "primer"
-git branch -M main
 
 git push -u origin main
 git push --set-upstream origin main
+
+OOK
+ok
