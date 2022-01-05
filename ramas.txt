@@ -8,3 +8,4 @@
 7- crear fork externo en otro repositorio
 8- unir repositorio externo en este
 9- fusion de repositorios
+s
