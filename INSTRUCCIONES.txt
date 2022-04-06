@@ -1,3 +1,5 @@
+gh auth login
+
 git config --global user.name "RicardoValladares"
 git config --global user.email "R_A_V_R_@HOTMAIL.COM"
 
